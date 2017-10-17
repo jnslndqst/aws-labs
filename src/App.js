@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to TUI</h1>
         </header>
         <p className="App-intro">
-          Hello Amazon!
+          Hello Amazon Web Services!
         </p>
       </div>
     );
